@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I’m Catalin Sb  
 
+🎓 Software Engineering student @ University of Greenwich  
+💡 Passionate about Python, Java, React, and exploring how AI can make life better for everyone  
+🌱 Currently learning more about software engineering, databases, and system architecture  
 
-**catalinsb/catalinsb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🔧 Skills & Tools  
+- **Languages:** Python, Java, SQL, HTML, CSS, JavaScript  
+- **Data & Analysis:** Tableau, R, Excel  
+- **Development Tools:** Git, GitHub, VS Code  
+- **Other strengths:** Problem-solving, debugging, teamwork, and data analytics  
 
-- 🔭 I’m currently working on devops
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+## 📊 GitHub Stats  
+![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=catalinsb&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catalinsb&layout=compact&theme=tokyonight)  
+
+---
+
+⭐️ *“Always learning, always building.”*  
 
