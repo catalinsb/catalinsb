@@ -15,8 +15,8 @@
 ---
 
 ## 📊 GitHub Stats  
-![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=catalinsb&show_icons=true&theme=tokyonight&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catalinsb&theme=tokyonight)  
+[![Catalin's GitHub stats](https://github-stats-alpha.vercel.app/api?username=catalinsb&show_icons=true&theme=tokyonight)](https://github.com/catalinsb)  
+[![Top Languages](https://github-stats-alpha.vercel.app/api/top-langs/?username=catalinsb&theme=tokyonight&layout=pie)](https://github.com/catalinsb)  
 
 ---
 
