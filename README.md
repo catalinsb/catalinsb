@@ -16,7 +16,7 @@
 
 ## 📊 GitHub Stats  
 [![Catalin's GitHub stats](https://github-stats-alpha.vercel.app/api?username=catalinsb&show_icons=true&theme=tokyonight)](https://github.com/catalinsb)  
-[![Top Languages](https://github-stats-alpha.vercel.app/api/top-langs/?username=catalinsb&theme=tokyonight&layout=pie)](https://github.com/catalinsb)  
+[![Top Languages](https://github-stats-alpha.vercel.app/api/top-langs/?username=catalinsb&theme=tokyonight)](https://github.com/catalinsb)  
 
 ---
 
