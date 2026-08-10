@@ -15,7 +15,7 @@
 ---
 
 ## 📊 GitHub Stats  
-![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=catalinsb&show_icons=true&theme=tokyonight)  
+![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=catalinsb)  
 
 ## 💻 My Tech Stack
 
