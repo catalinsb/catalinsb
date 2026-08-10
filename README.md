@@ -14,7 +14,10 @@
 
 ---
 
-## 📊 My Tech Stack
+## 📊 GitHub Stats  
+![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=catalinsb&show_icons=true&theme=tokyonight)  
+
+## 💻 My Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
