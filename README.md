@@ -15,7 +15,8 @@
 ---
 
 ## 📊 GitHub Stats  
-![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=catalinsb)  
+![Catalin's GitHub stats](anuraghazra/github-readme-stats
+DenverCoder1/github-readme-streak-stats username=catalinsb)  
 
 ## 💻 My Tech Stack
 
