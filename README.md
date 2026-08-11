@@ -15,7 +15,7 @@
 ---
 
 ## 📊 GitHub Stats  
-![Catalin's GitHub stats](![itwaasyou's GitHub Stats](https://readme-stats-github.pages.dev/api?username=itwaasyou&theme=shadow))  
+![Catalin's GitHub stats](![itwaasyou's GitHub Stats](https://readme-stats-github.pages.dev/api?username=catalinsb)  
 
 ## 💻 My Tech Stack
 
